@@ -1,0 +1,6 @@
+category,quantity,unit
+Electricity consumption,5000,kWh
+Solar Energy,1200,kWh
+Grid Electricity,3800,kWh
+Peak Hour Usage,2100,kWh
+Off Peak Usage,1700,kWh
